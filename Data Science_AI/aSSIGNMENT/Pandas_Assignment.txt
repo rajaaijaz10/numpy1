@@ -1,0 +1,8 @@
+
+Pandas
+1. Create dataframe (df) using dict that contains ID,Gender,Math1 columns with 10 rows of your choice of  data in it.
+2. Add one more column 'Math2' to the df and fill with NaN.
+3. Print only 7 rows of df
+4. Fill Math2 column with Math1  + 5 to it.
+5. create subset (new name is 'new_df') out of df which contains only 'ID' and 'Math1' 
+6. In the df, modify score for the 5th row in column Math2
